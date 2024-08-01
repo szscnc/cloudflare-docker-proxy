@@ -16,7 +16,7 @@ const routes = {
   "cloudsmith.szsc.us.kg": "https://docker.cloudsmith.io",
 
   // staging
-  "docker-staging.szsc.us.kg": dockerHub,
+  "docker-staging.scnc76.us.kg": dockerHub,
 };
 
 function routeByHosts(host) {
